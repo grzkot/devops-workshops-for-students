@@ -914,3 +914,4 @@ Można także edytować secret poleceniem:
 
 Przeprowadź wdrożenie za pomocą polecenia `kubectl apply -f k8s.yaml` i sprawdź działanie aplikacji.
 
+.
